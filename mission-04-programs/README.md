@@ -47,4 +47,4 @@ mission-04-programs/hello.py and mission-04-programs/README.md
 
 Commit details
 
-Commit message: Compare compilers and interpreters. Pushed to GitHub.
+Commit message: Compare compilers and interpreters. Pushed to GitHub
